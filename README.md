@@ -1,12 +1,12 @@
 # Docker image for @angular/cli
 
-**os:** linux x64
+**os:** linux x64 <br>
 **docker hub:** [![Docker Pulls](https://img.shields.io/docker/pulls/rat2000/angular-cli.svg)](https://hub.docker.com/r/rat2000/angular-cli)
 
 
 ## Available CLI versions
 
-7.x: 7.3.6
+7.x: 7.3.6 <br>
 8.x: -
 
 ## Usage examples
