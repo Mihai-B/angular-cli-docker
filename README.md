@@ -7,7 +7,7 @@
 ## Available CLI versions
 
 7.x: 7.3.6 <br>
-8.x: -
+8.x: 8.0.0-beta.9
 
 ## Usage examples
 
