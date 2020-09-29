@@ -1,16 +1,15 @@
 # Docker image for @angular/cli
 
 **os:** linux x64 <br>
-**docker hub:** [![Docker Pulls](https://img.shields.io/docker/pulls/rat2000/angular-cli.svg)](https://hub.docker.com/r/rat2000/angular-cli)
+**docker hub:** [![Docker Pulls](https://img.shields.io/docker/pulls/mihaibob/angular-cli.svg)](https://hub.docker.com/r/mihaibob/angular-cli)
 <br>
 **buy me a coffe:** [![Buy a coffe](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/paypalme2/mihaibob/1?locale.x=en_US)
 
 
 ## Available CLI versions
 
-7.x: 7.3.6, 7.3.7, 7.3.8, 7.3.9 <br>
-8.x: 8.0.0-beta.9, 8.0.0, 8.3.1, 8.3.5, 8.3.15 <br>
-9.x: 9.0.1, 9.0.2, 9.0.7, 9.1.0, 9.1.4 <br>
+8.x: 8.3.15 <br>
+9.x: 9.1.4 <br>
 10.x: 10.1.3
 
 ## Usage examples
