@@ -28,7 +28,7 @@ docker run -it --rm -w /app -v $(pwd):/app rat2000/angular-cli:[version_you_need
 docker run -it --rm -w /app -v $(pwd)/my-project-name:/app rat2000/angular-cli:[version_you_need] ng g component sample-component
 ```
 
-### Serving
+### Serving 
 
 ```
 docker run -it --rm -w /app -v $(pwd)/my-project-name:/app -p 4200:4200 rat2000/angular-cli:[version_you_need] ng serve --host 0.0.0.0
