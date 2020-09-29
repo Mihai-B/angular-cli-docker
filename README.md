@@ -19,7 +19,7 @@ This image has the same usage as Angular CLI (https://cli.angular.io/)
 docker run -it --rm -w /app -v $(pwd):/app rat2000/angular-cli:[version_you_need] ng new my-project-name
 ```
 
-### Generating a component
+### Generating a component 
 
 ```
 docker run -it --rm -w /app -v $(pwd)/my-project-name:/app rat2000/angular-cli:[version_you_need] ng g component sample-component
